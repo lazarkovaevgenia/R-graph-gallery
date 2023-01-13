@@ -1,0 +1,4 @@
+barplot(views, xlab = "Compression", ylab = "Pageviews", main = "Page Path FYL24", names.arg = page, col = "steelblue", ylim = c(0, 30))
+
+git add barplotfyl24.png
+git commit -m 'barplotfyl24'
